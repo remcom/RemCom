@@ -7,11 +7,12 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 👷 &nbsp;Freelancer at [RemCom](https://www.remcom.dev)\
 👷 &nbsp;PHP Developer at [ProductFlow](https://www.productflow.com)\
-🏡 &nbsp;Home Automation geek\
+🏡 &nbsp;Home Automation geek
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
+![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=vhdl)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -32,7 +33,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://www.remcom.dev"><img src="https://img.shields.io/badge/-remcom.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/remcovessen"><img src="https://img.shields.io/badge/-Remco-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
