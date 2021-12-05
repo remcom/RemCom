@@ -23,6 +23,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![PHPstorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![DO](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -35,6 +38,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.remcom.dev"><img src="https://img.shields.io/badge/-remcom.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/remcovessen"><img src="https://img.shields.io/badge/-Remco-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.remcom.dev"><img src="https://img.shields.io/badge/remcom.dev-0052CC?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/remcovessen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+### 🤝🏻 &nbsp;Support me
+
+<p>
+<a href="https://www.buymeacoffee.com/remcom"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
