@@ -7,6 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 👷 &nbsp;Freelancer at [RemCom](https://www.remcom.dev)\
 👷 &nbsp;PHP Developer at [ProductFlow](https://www.productflow.com)\
+👷 &nbsp;Former ASIC/FPGA developer\
 🏡 &nbsp;Home Automation geek
 
 ### 🛠 &nbsp;Tech Stack
