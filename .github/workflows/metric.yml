@@ -21,3 +21,7 @@ jobs:
           filename: metrics.base.svg
           token: ${{ secrets.METRIC }}
           base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_traffic: yes
+          plugin_licenses: yes
+          plugin_contributors: yes
