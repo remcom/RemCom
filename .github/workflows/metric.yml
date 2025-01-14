@@ -16,7 +16,8 @@ jobs:
         with:
           filename: metrics.base.svg
           token: ${{ secrets.METRIC }}
-          base: header, activity, community, repositories, metadata
+          config_display: large
+          base: activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_traffic: yes
           plugin_licenses: yes
