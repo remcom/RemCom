@@ -20,12 +20,3 @@ jobs:
           base: activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_traffic: yes
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
-          plugin_contributors: yes
-          plugin_contributors_categories: |
-            {
-              "📚 Documentation": ["README.md", "docs/**"],
-              "💻 Code": ["source/**", "src/**"],
-              "#️⃣ Others": ["*"]
-            }
