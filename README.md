@@ -12,6 +12,10 @@
 
 <p align="left">✨ Creating bugs since 2013<br>👷  PHP Developer at ProductFlow<br>👷  Former ASIC/FPGA developer<br>🏡  Home Automation geek</p>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/remcom/RemCom/refs/heads/master/metrics.base.svg" />
+</div>
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -19,7 +23,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
   <img width="12" />
@@ -55,15 +59,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RemCom&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=RemCom&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/RemCom/RemCom/output/snake.svg" alt="Snake animation" />
 
 ###
 
