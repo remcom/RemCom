@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F97316,100:EC4899&text=Hey%2C%20I%27m%20Remco&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Lead%20developer%20%C2%B7%20ex-ASIC%2FFPGA%20%C2%B7%20home%20automation&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Hey, I'm Remco" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:047857,100:0369A1&text=Hey%2C%20I%27m%20Remco&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Developer%20%C2%B7%20ex-ASIC%2FFPGA%20%C2%B7%20home%20automation&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Hey, I'm Remco" />
 
 <br/>
 
-<a href="https://discord.com/users/DISCORD_USER_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discord.com/users/1231318722304675880"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 </div>
 
@@ -28,4 +28,4 @@ hobbies:     home automation
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:EC4899,100:F97316&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0369A1,100:047857&section=footer" width="100%" alt="" />
