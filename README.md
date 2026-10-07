@@ -1,76 +1,31 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F97316,100:EC4899&text=Hey%2C%20I%27m%20Remco&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Lead%20developer%20%C2%B7%20ex-ASIC%2FFPGA%20%C2%B7%20home%20automation&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Hey, I'm Remco" />
 
-<p align="left">My name is Remco</p>
+<br/>
 
-###
+<a href="https://discord.com/users/DISCORD_USER_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
-<h2 align="left">About me</h2>
+</div>
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2013<br>👷  PHP Developer at ProductFlow<br>👷  Former ASIC/FPGA developer<br>🏡  Home Automation geek</p>
+### 👋 About me
+
+```yaml
+name:        Remco
+role:        Lead Developer @ ProductFlow
+background:  Former ASIC / FPGA developer
+since:       2013 (creating bugs professionally)
+hobbies:     home automation
+```
+
+### 🛠️ Tech stack
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/remcom/RemCom/refs/heads/master/metrics.base.svg" />
+
+<img src="assets/stack-dark.svg" alt="PHP, Laravel, JavaScript, Python, C, VHDL, databases, Redis, Docker, AWS, Git, Hugo, Bootstrap, PhpStorm, ESP32" />
+
 </div>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/hugo/FF4088" height="40" alt="hugo logo"  />
-</div>
-
-###
-
-###
-
-<h2 align="left">Contact Me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/remcovessen/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-</div>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:EC4899,100:F97316&section=footer" width="100%" alt="" />
